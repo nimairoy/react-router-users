@@ -1,0 +1,16 @@
+.card{
+    border: 1px solid turquoise;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    text-align: center;
+}
+.details-button{
+    padding: 8px 12px;
+    border-radius: 10px;
+    background: gray;
+    text-decoration: none;
+    margin-bottom: 20px;
+    display: inline-block;
+    color: #fff;
+}

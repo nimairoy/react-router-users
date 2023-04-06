@@ -1,0 +1,16 @@
+
+
+.details-user{
+    text-align: center;
+}
+.details-card{
+    border: 1px solid tomato;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 400px;
+    background-color: coral
+}
+.details-user h2{
+    font-size: 20px;
+}
